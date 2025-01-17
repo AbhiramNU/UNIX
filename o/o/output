@@ -1,0 +1,14 @@
+Enter three numbers:
+10 20 30
+c is greatest
+a is smallest
+(base) student@nmamit-cse-csl03-pc-07:~$ sh larger.sh
+Enter three numbers:
+30 20 10
+a is greatest
+c is smallest
+(base) student@nmamit-cse-csl03-pc-07:~$ sh larger.sh
+Enter three numbers:
+10 50 30
+b is greatest
+a is smallest
