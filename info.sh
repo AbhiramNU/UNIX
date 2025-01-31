@@ -1,0 +1,5 @@
+echo "Shell Script File name:$0"
+echo "The first agrument in commandline is :$1"
+echo "The seconf argument in command line is :$2"
+echo "The length or count of command line argument is :$#"
+echo "The complete list of argument is $@"
